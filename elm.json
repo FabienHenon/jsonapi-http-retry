@@ -1,16 +1,16 @@
 {
     "type": "package",
-    "name": "calions-app/jsonapi-http-retry",
+    "name": "FabienHenon/jsonapi-http-retry",
     "summary": "Retry failed jsonapi requests with policies",
     "license": "MIT",
-    "version": "2.0.0",
+    "version": "1.0.0",
     "exposed-modules": [
         "Http.CmdRetry",
         "Http.Retry"
     ],
     "elm-version": "0.19.0 <= v < 0.20.0",
     "dependencies": {
-        "calions-app/jsonapi-http": "1.1.0 <= v < 2.0.0",
+        "FabienHenon/jsonapi-http": "1.0.0 <= v < 2.0.0",
         "elm/core": "1.0.5 <= v < 2.0.0",
         "elm/http": "2.0.0 <= v < 3.0.0",
         "elm/random": "1.0.0 <= v < 2.0.0",
