@@ -3,7 +3,7 @@
     "name": "FabienHenon/jsonapi-http-retry",
     "summary": "Retry failed jsonapi requests with policies",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "Http.CmdRetry",
         "Http.Retry"
